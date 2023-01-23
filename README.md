@@ -7,4 +7,4 @@ Link for downloading .apk file for the AR Experience: https://mega.nz/file/phcU2
 
 Link for the AR Demo image: https://mega.nz/file/l0MnCJSY#BdmbwiMILj4mG_cyu4Otu6FTuZgdz0tIfoYypDosi20
 
-Link for downloading the .exe file the VR Experience: https://mega.nz/file/l0MnCJSY#BdmbwiMILj4mG_cyu4Otu6FTuZgdz0tIfoYypDosi20
+Link for downloading the .exe file the VR Experience: uploading soon
