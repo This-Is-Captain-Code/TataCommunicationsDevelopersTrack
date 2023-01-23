@@ -1,5 +1,5 @@
 # TataCommunicationsDevelopersTrack
-Enhancing retail instore experience of the customers, while driving sales growth of the retailers using a AR and VR experiences
+Enhancing retail instore experience of the customers, while driving sales growth of the retailers using AR and VR experiences
 
 Link for the Documentation: https://mega.nz/file/xxFRCYiR#ErbH1UoIFMQ1tdWOx24m4Lpxdn_QO_kkhsIBt6nxLOI
 
